@@ -8,6 +8,7 @@ export default function Page(): JSX.Element {
         <h1>Here is the button from UI</h1>
         <Button message={'hello from admin'}>Click me</Button>
       </div>
+      {/* meaningless change */}
     </main>
   );
 }
